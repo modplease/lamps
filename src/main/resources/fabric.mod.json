@@ -9,9 +9,9 @@
     "ilteapls"
   ],
   "contact": {
-    "homepage": "https://curseforge.com/minecraft/mc-mods/thelamps",
-    "sources": "https://github.com/moddedbyiltea/lamps",
-    "issues": "https://github.com/moddedbyiltea/lamps/issues"
+    "homepage": "https://curseforge.com/minecraft/mc-mods/lamps",
+    "sources": "https://github.com/modplease/lamps",
+    "issues": "https://github.com/modplease/lamps/issues"
   },
 
   "license": "MIT",

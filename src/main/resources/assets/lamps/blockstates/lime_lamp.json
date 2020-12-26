@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lamps:block/lime_lamp"
+    },
+    "facing=east": {
+      "model": "lamps:block/lime_lamp",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lamps:block/lime_lamp",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lamps:block/lime_lamp",
+      "y": 270
+    }
+  }
+}

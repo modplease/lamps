@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lamps:block/magneta_lamp"
+    },
+    "facing=east": {
+      "model": "lamps:block/magneta_lamp",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lamps:block/magneta_lamp",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lamps:block/magneta_lamp",
+      "y": 270
+    }
+  }
+}

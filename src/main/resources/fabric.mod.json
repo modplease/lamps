@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "lamps",
+  "version": "${version}",
+
+  "name": "The Lamps!",
+  "description": "On the guard of luminosity!",
+  "authors": [
+    "ilteapls"
+  ],
+  "contact": {
+    "homepage": "https://curseforge.com/minecraft/mc-mods/thelamps",
+    "sources": "https://github.com/moddedbyiltea/lamps",
+    "issues": "https://github.com/moddedbyiltea/lamps/issues"
+  },
+
+  "license": "MIT",
+  "icon": "assets/lamps/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.iltea.lamps.Main"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "moblamps": ">=1.0"
+  }
+}

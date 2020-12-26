@@ -1,0 +1,20 @@
+{
+  "group": "lamps",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G",
+    "I"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glowstone"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "lamps:lightbulb",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "group": "lamps",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "W W",
+    "W W"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:wool"
+    }
+  },
+  "result": {
+    "item": "lamps:lamp_cover",
+    "count": 1
+  }
+}

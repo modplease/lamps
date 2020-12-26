@@ -1,0 +1,16 @@
+{
+  "group": "lamps",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lamps:white_lamp"
+    },
+    {
+      "item": "minecraft:yellow_dye"
+    }
+  ],
+  "result": {
+    "item": "lamps:yellow_lamp",
+    "count": 1
+  }
+}

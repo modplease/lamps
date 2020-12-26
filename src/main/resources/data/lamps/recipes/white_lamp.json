@@ -1,0 +1,24 @@
+{
+  "group": "lamps",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "B",
+    "M"
+  ],
+  "key": {
+    "C": {
+      "item": "lamps:lamp_cover"
+    },
+    "B": {
+      "item": "lamps:lightbulb"
+    },
+    "M": {
+      "item": "lamps:iron_rod"
+    }
+  },
+  "result": {
+    "item": "lamps:white_lamp",
+    "count": 1
+  }
+}

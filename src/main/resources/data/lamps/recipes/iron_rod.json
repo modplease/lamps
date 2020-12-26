@@ -1,0 +1,21 @@
+{
+  "group": "lamps",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "ISI",
+    "III"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "I": {
+      "item": "minecraft:iron_nuggets"
+    }
+  },
+  "result": {
+    "item": "lamps:iron_rod",
+    "count": 1
+  }
+}

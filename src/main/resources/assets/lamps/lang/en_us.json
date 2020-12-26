@@ -1,0 +1,44 @@
+{
+  "itemGroup.lamps.itemgroup": "The Lamps!",
+
+  "item.lamps.lightbulb": "Lightbulb",
+  "item.lamps.broken_lightbulb": "Broken Lightbulb",
+  "item.lamps.iron_rod": "Iron Rod",
+  "item.lamps.lamp_cover": "Lamp Cover",
+
+  "block.lamps.white_lamp": "Lamp",
+  "block.lamps.tall_white_lamp": "Tall Lamp",
+
+  "block.lamps.red_lamp": "Red Lamp",
+  "block.lamps.tall_red_lamp": "Tall Red Lamp",
+
+  "block.lamps.orange_lamp": "Orange Lamp",
+  "block.lamps.tall_orange_lamp": "Tall Orange Lamp",
+
+  "block.lamps.yellow_lamp": "Yellow Lamp",
+  "block.lamps.tall_yellow_lamp": "Tall Yellow Lamp",
+
+  "block.lamps.green_lamp": "Green Lamp",
+  "block.lamps.tall_green_lamp": "Tall Green Lamp",
+
+  "block.lamps.blue_lamp": "Blue Lamp",
+  "block.lamps.tall_blue_lamp": "Tall Blue Lamp",
+
+  "block.lamps.light_blue_lamp": "Light Blue Lamp",
+  "block.lamps.tall_light_blue_lamp": "Tall Light Blue Lamp",
+
+  "block.lamps.pink_lamp": "Pink Lamp",
+  "block.lamps.tall_pink_lamp": "Tall Pink Lamp",
+
+  "block.lamps.light_gray_lamp": "Light Gray Lamp",
+  "block.lamps.tall_light_gray_lamp": "Tall Light Gray Lamp",
+
+  "block.lamps.black_lamp": "Black Lamp",
+  "block.lamps.tall_black_lamp": "Tall Black Lamp",
+
+  "block.lamps.brown_lamp": "Brown Lamp",
+  "block.lamps.tall_brown_lamp": "Tall Brown Lamp",
+
+  "block.lamps.lime_lamp": "Lime Lamp",
+  "block.lamps.tall_lime_lamp": "Tall Lime Lamp"
+}

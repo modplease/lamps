@@ -1,0 +1,44 @@
+{
+  "itemGroup.lamps.itemgroup": "Лампы",
+
+  "item.lamps.lightbulb": "Лампочка",
+  "item.lamps.broken_lightbulb": "Разбитая лампочка",
+  "item.lamps.iron_rod": "Железный стержень",
+  "item.lamps.lamp_cover": "Колпак для лампы",
+
+  "block.lamps.white_lamp": "Белая лампа",
+  "block.lamps.tall_white_lamp": "Белая лампа (высокая)",
+
+  "block.lamps.red_lamp": "Красная лампа",
+  "block.lamps.tall_red_lamp": "Красная лампа (высокая)",
+
+  "block.lamps.orange_lamp": "Оранжевая лампа",
+  "block.lamps.tall_orange_lamp": "Оранжевая лампа (высокая)",
+
+  "block.lamps.yellow_lamp": "Жёлтая лампа",
+  "block.lamps.tall_yellow_lamp": "Жёлтая лампа (высокая)",
+
+  "block.lamps.green_lamp": "Зелёная лампа",
+  "block.lamps.tall_green_lamp": "Зелёная лампа (высокая)",
+
+  "block.lamps.blue_lamp": "Синяя лампа",
+  "block.lamps.tall_blue_lamp": "Синяя лампа (высокая)",
+
+  "block.lamps.light_blue_lamp": "Голубая лампа",
+  "block.lamps.tall_light_blue_lamp": "Голубая лампа (высокая)",
+
+  "block.lamps.pink_lamp": "Розовая лампа",
+  "block.lamps.tall_pink_lamp": "Розовая лампа (высокая)",
+
+  "block.lamps.light_gray_lamp": "Светло-серая лампа",
+  "block.lamps.tall_light_gray_lamp": "Светло-серая лампа (высокая)",
+
+  "block.lamps.black_lamp": "Черная лампа",
+  "block.lamps.tall_black_lamp": "Черная лампа (высокая)",
+
+  "block.lamps.brown_lamp": "Коричневая лампа",
+  "block.lamps.tall_brown_lamp": "Коричневая лампа (высокая)",
+
+  "block.lamps.lime_lamp": "Лаймовая лампа",
+  "block.lamps.tall_lime_lamp": "Лаймовая лампа (высокая)"
+}

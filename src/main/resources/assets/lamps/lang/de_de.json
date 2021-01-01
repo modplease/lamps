@@ -1,0 +1,44 @@
+{
+  "itemGroup.lamps.itemgroup": "Die Lampen!",
+
+  "item.lamps.lightbulb": "Glühbirne",
+  "item.lamps.broken_lightbulb": "Kaputte Glühbirne",
+  "item.lamps.iron_rod": "Eisenstange",
+  "item.lamps.lamp_cover": "Lampenschirm",
+
+  "block.lamps.white_lamp": "Lampe",
+  "block.lamps.tall_white_lamp": "Stehlampe",
+
+  "block.lamps.red_lamp": "Rote Lampe",
+  "block.lamps.tall_red_lamp": "Rote Stehlampe",
+
+  "block.lamps.orange_lamp": "Orange Lampe",
+  "block.lamps.tall_orange_lamp": "Orange Stehlampe",
+
+  "block.lamps.yellow_lamp": "Gelbe Lampe",
+  "block.lamps.tall_yellow_lamp": "Gelbe Stehlampe",
+
+  "block.lamps.green_lamp": "Grüne Lampe",
+  "block.lamps.tall_green_lamp": "Grüne Stehlampe",
+
+  "block.lamps.blue_lamp": "Blaue Lampe",
+  "block.lamps.tall_blue_lamp": "Blaue Stehlampe",
+
+  "block.lamps.light_blue_lamp": "Hellblaue Lampe",
+  "block.lamps.tall_light_blue_lamp": "Hellblaue Stehlampe",
+
+  "block.lamps.pink_lamp": "Pinke Lampe",
+  "block.lamps.tall_pink_lamp": "Pinke Stehlampe",
+
+  "block.lamps.light_gray_lamp": "Hellgraue Lampe",
+  "block.lamps.tall_light_gray_lamp": "Hellgraue Stehlampe",
+
+  "block.lamps.black_lamp": "Schwarze Lampe",
+  "block.lamps.tall_black_lamp": "Schwarze Stehlampe",
+
+  "block.lamps.brown_lamp": "Braune Lampe",
+  "block.lamps.tall_brown_lamp": "Braune Stehlampe",
+
+  "block.lamps.lime_lamp": "Hellgrüne Lampe",
+  "block.lamps.tall_lime_lamp": "Hellgrüne Stehlampe"
+}

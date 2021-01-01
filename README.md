@@ -15,6 +15,7 @@ You can help me translate «The Lamps!» into every language in the world! You c
 **Available Translations:**
 + 🇺🇸 English (US)
 + 🇷🇺 Russian (Русский)
++ 🇩🇪 German (Deutsch) - by @X00LA [1.0.1]
 
 ### 📥 Download Notes:
 + Forge available for **Minecraft 1.12.2 - 1.14.4** `OLD VERSION`

@@ -40,5 +40,17 @@
   "block.lamps.tall_brown_lamp": "Braune Stehlampe",
 
   "block.lamps.lime_lamp": "Hellgrüne Lampe",
-  "block.lamps.tall_lime_lamp": "Hellgrüne Stehlampe"
+  "block.lamps.tall_lime_lamp": "Hellgrüne Stehlampe",
+
+  "block.lamps.purple_lamp": "Purple Lamp",
+  "block.lamps.tall_purple_lamp": "Tall Purple Lamp",
+
+  "block.lamps.gray_lamp": "Gray Lamp",
+  "block.lamps.tall_gray_lamp": "Tall Gray Lamp",
+
+  "block.lamps.magenta_lamp": "Magenta Lamp",
+  "block.lamps.tall_magenta_lamp": "Tall Magenta Lamp",
+
+  "block.lamps.cyan_lamp": "Cyan Lamp",
+  "block.lamps.tall_cyan_lamp": "Tall Cyan Lamp"
 }

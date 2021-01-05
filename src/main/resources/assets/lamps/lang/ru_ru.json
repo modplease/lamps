@@ -40,5 +40,17 @@
   "block.lamps.tall_brown_lamp": "Коричневая лампа (высокая)",
 
   "block.lamps.lime_lamp": "Лаймовая лампа",
-  "block.lamps.tall_lime_lamp": "Лаймовая лампа (высокая)"
+  "block.lamps.tall_lime_lamp": "Лаймовая лампа (высокая)",
+
+  "block.lamps.purple_lamp": "Фиолетовая лампа",
+  "block.lamps.tall_purple_lamp": "Фиолетовая лампа (высокая)",
+
+  "block.lamps.gray_lamp": "Серая лампа",
+  "block.lamps.tall_gray_lamp": "Серая лампа (высокая)",
+
+  "block.lamps.magenta_lamp": "Пурпурная лампа",
+  "block.lamps.tall_magenta_lamp": "Пурпурная лампа (высокая)",
+
+  "block.lamps.cyan_lamp": "Бирюзовая лампа",
+  "block.lamps.tall_cyan_lamp": "Бирюзовая лампа (высокая)"
 }
